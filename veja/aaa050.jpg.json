@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+    "company": "negative vertical",
+    "dataset": "Photos",
+    "filename": "aaa050.jpg",
+    "image_width": 1080,
+    "image_height": 1980,
+    "bndboxes": []
+}

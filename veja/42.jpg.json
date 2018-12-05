@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+    "company": "RB-Brazil-negative",
+    "dataset": "photos",
+    "filename": "42.jpg",
+    "image_width": 3492,
+    "image_height": 4656,
+    "bndboxes": []
+}

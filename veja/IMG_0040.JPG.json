@@ -1,0 +1,707 @@
+{
+    "version": "1.0.0",
+    "company": "auto",
+    "dataset": "photos",
+    "filename": "IMG_0040.JPG",
+    "image_width": 3024,
+    "image_height": 4032,
+    "bndboxes": [
+        {
+            "x": 2343.7377049180327,
+            "y": 1410.924965893588,
+            "w": 347.0163934426233,
+            "h": 456.55661664392903,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 118.42622950819674,
+            "y": 2010.49931787176,
+            "w": 408.2097455338543,
+            "h": 390.5484311050477,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 2778.2999999999997,
+            "y": 2052.2250000000004,
+            "w": 94.5,
+            "h": 381.0215092563537,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 578.025,
+            "y": 1415.9250000000002,
+            "w": 103.95000000000005,
+            "h": 387.44999999999993,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1748.8524590163934,
+            "y": 1405.424283765348,
+            "w": 159.73770491803285,
+            "h": 423.55252387448814,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 338.625,
+            "y": 796.95,
+            "w": 97.64999999999995,
+            "h": 403.20000000000005,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 533.9250000000001,
+            "y": 845.7750000000001,
+            "w": 97.64999999999999,
+            "h": 362.25,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 126.68852459016394,
+            "y": 1427.4270122783084,
+            "w": 99.14754098360652,
+            "h": 390.5484311050477,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1702.5749999999998,
+            "y": 737.0999999999999,
+            "w": 154.34999999999997,
+            "h": 497.70000000000016,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 11.025,
+            "y": 2009.6999999999998,
+            "w": 91.35,
+            "h": 403.63686852839675,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 475.65,
+            "y": 1412.775,
+            "w": 100.79999999999998,
+            "h": 393.75,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 2878.032786885246,
+            "y": 2054.504774897681,
+            "w": 126.68852459016362,
+            "h": 368.54570259208737,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 237.825,
+            "y": 1414.35,
+            "w": 103.95,
+            "h": 390.59999999999997,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 103.95,
+            "y": 792.2249999999999,
+            "w": 94.5,
+            "h": 406.34999999999997,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1141.875,
+            "y": 2044.3500000000001,
+            "w": 103.94999999999996,
+            "h": 359.09999999999974,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 2481.4426229508194,
+            "y": 2043.5034106412008,
+            "w": 104.65573770491827,
+            "h": 390.5484311050475,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 683.55,
+            "y": 1423.8000000000002,
+            "w": 100.80000000000007,
+            "h": 371.69999999999993,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1245.825,
+            "y": 2028.6000000000001,
+            "w": 91.35000000000001,
+            "h": 359.4340759334797,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1629.8230413513916,
+            "y": 1386.1718963165076,
+            "w": 116.27531930434637,
+            "h": 440.0545702592087,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1304.1000000000001,
+            "y": 835.0840759334797,
+            "w": 144.89999999999998,
+            "h": 472.16592406652035,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 231.525,
+            "y": 790.6500000000001,
+            "w": 97.64999999999999,
+            "h": 409.5,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 9.450000000000001,
+            "y": 787.5,
+            "w": 88.20000000000002,
+            "h": 409.5,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1291.5,
+            "y": 1406.6291888923754,
+            "w": 132.30000000000004,
+            "h": 437.56732036397847,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1661.7020944461874,
+            "y": 2025.4499999999998,
+            "w": 85.0500000000002,
+            "h": 378,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 27.540983606557376,
+            "y": 1435.6780354706686,
+            "w": 99.14754098360656,
+            "h": 385.04774897680767,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 533.9250000000001,
+            "y": 2022.3000000000002,
+            "w": 91.34999999999992,
+            "h": 397.36256667712587,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 441,
+            "y": 825.3,
+            "w": 88.19999999999993,
+            "h": 390.6000000000001,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 351.1479055538124,
+            "y": 1414.35,
+            "w": 103.95,
+            "h": 390.59999999999997,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1044.2250000000001,
+            "y": 2038.0500000000002,
+            "w": 97.64999999999999,
+            "h": 365.3999999999998,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 948.15,
+            "y": 2041.1999999999998,
+            "w": 94.5,
+            "h": 365.40000000000026,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1842.4918032786886,
+            "y": 783.8472032742154,
+            "w": 148.72131147541,
+            "h": 467.5579809004094,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 633.15,
+            "y": 842.625,
+            "w": 107.09999999999995,
+            "h": 362.25,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 2368.524590163934,
+            "y": 2049.004092769441,
+            "w": 110.16393442622986,
+            "h": 390.54843110504794,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 758.4961446861482,
+            "y": 811.3506139154161,
+            "w": 99.1475409836065,
+            "h": 401.5497953615278,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1030.0327868852457,
+            "y": 875.430885448259,
+            "w": 132.19672131147556,
+            "h": 348.47088808516526,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1181.5081967213114,
+            "y": 839.6773146021676,
+            "w": 126.68852459016414,
+            "h": 378.7237768030167,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 623.6999999999999,
+            "y": 2020.7250000000001,
+            "w": 107.10000000000004,
+            "h": 381.5354722309382,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 848.925,
+            "y": 2039.625,
+            "w": 97.65000000000016,
+            "h": 368.55000000000007,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1934.1,
+            "y": 1445.85,
+            "w": 157.5000000000001,
+            "h": 384.30000000000007,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 897.5344714953678,
+            "y": 852.8784339174623,
+            "w": 126.68852459016414,
+            "h": 368.27299855184185,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 2153.025,
+            "y": 888.3,
+            "w": 129.14999999999972,
+            "h": 371.70000000000005,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 2088.4500000000003,
+            "y": 1445.85,
+            "w": 138.59999999999985,
+            "h": 371.70000000000016,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1004.8499999999999,
+            "y": 1447.4250000000002,
+            "w": 119.70000000000007,
+            "h": 368.54999999999984,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 744.3237511521415,
+            "y": 2036.1025022362305,
+            "w": 89.55977408220895,
+            "h": 374.21619077502373,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1364.2421697276043,
+            "y": 2055.079596682418,
+            "w": 76.90837778475066,
+            "h": 355.23909632883624,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1758.8603702541573,
+            "y": 2042.4282003849596,
+            "w": 89.55977408220906,
+            "h": 342.5877000313774,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1860.0715406338247,
+            "y": 2036.1025022362305,
+            "w": 95.88547223093838,
+            "h": 367.8904926262944,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1967.6084091622213,
+            "y": 2042.4282003849596,
+            "w": 95.88547223093815,
+            "h": 367.89049262629464,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 2068.8195795418887,
+            "y": 2036.1025022362305,
+            "w": 102.21117037966724,
+            "h": 367.8904926262944,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 2182.6821462190146,
+            "y": 2042.4282003849596,
+            "w": 83.23407593347974,
+            "h": 374.2161907750235,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 2283.893316598682,
+            "y": 2048.7538985336887,
+            "w": 83.23407593347974,
+            "h": 380.54188892375305,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 2587.526827737684,
+            "y": 2036.1025022362305,
+            "w": 83.23407593347974,
+            "h": 386.8675870724819,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 2695.0636962660806,
+            "y": 2042.4282003849596,
+            "w": 76.90837778475088,
+            "h": 393.19328522121145,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 2695.0636962660806,
+            "y": 1403.5326873633092,
+            "w": 235.05083150298105,
+            "h": 431.14747411358644,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 2233.2877314088482,
+            "y": 1460.463970701872,
+            "w": 102.21117037966724,
+            "h": 380.5418889237528,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 2638.1324129275176,
+            "y": 808.9170613827631,
+            "w": 241.37652965170992,
+            "h": 450.12456855977405,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 2903.811735174145,
+            "y": 821.5684576802216,
+            "w": 114.86256667712587,
+            "h": 431.14747411358644,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": true
+        },
+        {
+            "x": 2296.5447128961405,
+            "y": 777.2885706391172,
+            "w": 310.9592092877315,
+            "h": 475.42736115469086,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 2018.2139943520551,
+            "y": 903.8025336137014,
+            "w": 121.18826482585473,
+            "h": 336.2620018826483,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 1144.9513649199876,
+            "y": 1466.7896688506014,
+            "w": 133.83966112331336,
+            "h": 348.9133981801067,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 872.9463445246314,
+            "y": 1460.463970701872,
+            "w": 114.86256667712576,
+            "h": 355.239096328836,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 790.7122685911515,
+            "y": 1447.8125744044137,
+            "w": 76.90837778475054,
+            "h": 361.5647944775651,
+            "id": "VJ_competitor",
+            "strokeStyle": "#3399FF",
+            "fillStyle": "#00FF00",
+            "ignore": false
+        },
+        {
+            "x": 52.3639911711216,
+            "y": 1420.6733837127686,
+            "w": 49.889910846948624,
+            "h": 415.45515632629395,
+            "id": "nil",
+            "strokeStyle": "red",
+            "fillStyle": "#00FF00",
+            "ignore": false,
+            "conflict": true,
+            "conflictBox": {
+                "id": "VJ_competitor",
+                "h": 415.45515632629395,
+                "x": 52.3639911711216,
+                "w": 49.889910846948624,
+                "y": 1420.6733837127686,
+                "originalId": "nil"
+            }
+        },
+        {
+            "x": 94.61593097448349,
+            "y": 802.8984031677246,
+            "w": 76.56505805253983,
+            "h": 392.72849464416504,
+            "id": "nil",
+            "strokeStyle": "red",
+            "fillStyle": "#00FF00",
+            "ignore": false,
+            "conflict": true,
+            "conflictBox": {
+                "id": "VJ_competitor",
+                "h": 392.72849464416504,
+                "x": 94.61593097448349,
+                "w": 76.56505805253983,
+                "y": 802.8984031677246,
+                "originalId": "nil"
+            }
+        },
+        {
+            "x": 37.163557425141335,
+            "y": 1987.734546661377,
+            "w": 52.875215113162994,
+            "h": 399.4738426208496,
+            "id": "nil",
+            "strokeStyle": "red",
+            "fillStyle": "#00FF00",
+            "ignore": false,
+            "conflict": true,
+            "conflictBox": {
+                "id": "VJ_competitor",
+                "h": 399.4738426208496,
+                "x": 37.163557425141335,
+                "w": 52.875215113162994,
+                "y": 1987.734546661377,
+                "originalId": "nil"
+            }
+        },
+        {
+            "x": 43.212197721004486,
+            "y": 772.2433891296387,
+            "w": 52.63274127244949,
+            "h": 429.50701332092285,
+            "id": "nil",
+            "strokeStyle": "red",
+            "fillStyle": "#00FF00",
+            "ignore": false,
+            "conflict": true,
+            "conflictBox": {
+                "id": "VJ_competitor",
+                "h": 429.50701332092285,
+                "x": 43.212197721004486,
+                "w": 52.63274127244949,
+                "y": 772.2433891296387,
+                "originalId": "nil"
+            }
+        }
+    ],
+    "conflict": true
+}
